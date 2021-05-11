@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="thank_you">شكرا لك !</string>
+    <string name="chocolate">شيكولاتة</string>
+    <string name="order">اطلب</string>
+    <string name="order_summary">ملخص الطلب</string>
+    <string name="plus">+</string>
+    <string name="defualt_value">1</string>
+    <string name="quantity">الكمية</string>
+    <string name="whipped_cream">كريمة مخفوقة</string>
+    <string name="minus">-</string>
+    <string name="_10">10 L.E</string>
+    <string name="name">الأسم</string>
+    <string name="add_Whipped_Cream">اضافة كريمة مخفوقة ؟</string>
+    <string name="add_chocolate">اضافة شيكولاتة ؟</string>
+    <string name="total">"المجموع "</string>
+    <string name="toppings">الأضافات</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+
+    <!--Header text for the list of the toppings [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <string name="thank_you">Thank you!</string>
+
+    <string name="add_Whipped_Cream">Add Whipped Cream ?</string>
+
+    <string name="add_chocolate">Add chocolate ?</string>
+
+    <string name="total">Total</string>
+
+    <string name="chocolate">Chocolate</string>
+    <string name="order">Order</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="plus">+</string>
+    <string name="defualt_value">1</string>
+    <string name="quantity">quantity</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="minus">-</string>
+    <string name="_10">$10</string>
+    <string name="name">Name</string>
+</resources>
